@@ -1,0 +1,3 @@
+#SUCCESS, primary lő, secondary nem lő
+SUCCESS
+SUCCESS

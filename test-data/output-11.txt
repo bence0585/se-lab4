@@ -1,0 +1,3 @@
+#SUCCESS, az egyik legalább sikeres
+SUCCESS
+SUCCESS

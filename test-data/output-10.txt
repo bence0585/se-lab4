@@ -1,0 +1,3 @@
+#FAIL, egyik sem lő
+SUCCESS
+FAIL

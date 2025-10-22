@@ -1,0 +1,4 @@
+#ALL módban az egyik üres
+#Primary üres secondary nem üres
+GT4500,0,0,10,0
+TORPEDO,ALL

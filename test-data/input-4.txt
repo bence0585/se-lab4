@@ -1,0 +1,4 @@
+#Üres secondary esetén a primary lő
+#Secondary üres, primary nem üres
+GT4500,10,0,0,0
+TORPEDO,SINGLE

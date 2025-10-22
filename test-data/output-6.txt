@@ -1,0 +1,3 @@
+#FAIL, hiba miatt nem tüzelt, nem próbálja meg a következőt
+SUCCESS
+FAIL

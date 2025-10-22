@@ -1,0 +1,4 @@
+#Következő SINGLE hívás a másik tárolót használja	Előző hívás a primaryból lőtt, egyik sem üres
+GT4500,10,0,10,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
