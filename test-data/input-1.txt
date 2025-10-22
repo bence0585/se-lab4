@@ -1,0 +1,3 @@
+# Egy torpeó kilövése működik, ha van betöltött torpedó	A primary store nem üres, secondary nem üres
+GT4500,10,0,10,0
+TORPEDO,SINGLE

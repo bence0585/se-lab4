@@ -1,0 +1,3 @@
+#FAIL, nem tüzel
+SUCCESS
+FAIL

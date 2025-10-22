@@ -1,0 +1,4 @@
+#ALL módban mindkét storeból megpróbál lőni
+#Mindkettő nem üres
+GT4500,10,0,10,0
+TORPEDO,ALL

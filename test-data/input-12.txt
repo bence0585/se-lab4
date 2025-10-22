@@ -1,0 +1,6 @@
+#Több egymás utáni SINGLE hívásnál a váltogatás megtartja a sorrendet
+#Primaryban legalább 2, secondaryban legalább 1 lövés
+GT4500,10,0,10,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,SINGLE

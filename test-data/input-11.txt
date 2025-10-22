@@ -1,0 +1,4 @@
+#ALL módban az egyik hibát ad
+#Mindkettő nem üres, az egyik hibát dob
+GT4500,10,1,10,0
+TORPEDO,ALL

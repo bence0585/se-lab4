@@ -1,0 +1,4 @@
+#A soron következő hibát jelez	
+#Mindkettő nem üres, de a következő store lövése hibát ad
+GT4500,10,1,10,0
+TORPEDO,SINGLE
